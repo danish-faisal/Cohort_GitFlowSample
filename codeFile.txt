@@ -1,0 +1,2 @@
+def program(a, b):
+	return a-b
